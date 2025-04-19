@@ -1,5 +1,5 @@
 # SUPRODM
-## Product Management Certification Specialization
+## Product Management Certification Specialization (4 course series)
 
 The demand for Product Managers is at an all-time high.Designed for rapid career launch, this 4-course program requires no prior experience, and with a few hours each week, you can be job-ready for a fulfilling Product Manager career in three months or less. Learn how to facilitate collaboration, analyze the market, shape product strategy, help define product goals and features, steer development, oversee testing, and implement necessary steps for a successful product launch.
 
